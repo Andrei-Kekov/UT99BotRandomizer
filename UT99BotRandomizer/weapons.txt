@@ -1,0 +1,9 @@
+BotPack.DoubleEnforcer
+BotPack.UT_BioRifle
+BotPack.ShockRifle
+BotPack.PulseGun
+BotPack.Ripper
+BotPack.Minigun2
+BotPack.UT_FlakCannon
+BotPack.UT_EightBall
+BotPack.SniperRifle
